@@ -23,7 +23,7 @@ To use the Song Generator, follow these steps:
     `git clone https://github.com/dhirendrachoudhary/RnD_AI_Challenge.git`
    
 3. Create a virtual environment and activate it:<br>
-    `python3 -m venv env`
+    `python3 -m venv env`<br>
     `source env/bin/activate`
 
 4. Install the dependencies:<br>
