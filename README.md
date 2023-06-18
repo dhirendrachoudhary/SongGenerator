@@ -29,7 +29,14 @@ To use the Song Generator, follow these steps:
 3. Install the dependencies:
     `pip install -r requirements.txt`
 
-4. Run the code:
+4. Download data and model
+    Download the data in the root directory
+    `wget https://drive.google.com/drive/folders/1LWe1VgEaTr5Bk5tJc81v4bgfqZGn7xMY?usp=sharing`
+
+    Download the model in the root directory
+    `wget https://drive.google.com/drive/folders/1ZLSaiyk7sZpTqAvs23kV-Gqh6sbFVqkf?usp=sharing`
+
+5. Run the code:
     `python songGenerator.py`
 
 ## Usage
