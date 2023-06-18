@@ -19,24 +19,24 @@ The Song Generator is designed to generate song lyrics in the style of Taylor Sw
 
 To use the Song Generator, follow these steps:
 
-1. clone the repository:
-    
-
-2. Create a virtual environment and activate it:
+1. clone the repository:<br>
+    `git clone https://github.com/dhirendrachoudhary/RnD_AI_Challenge.git`
+   
+3. Create a virtual environment and activate it:<br>
     `python3 -m venv env`
     `source env/bin/activate`
 
-3. Install the dependencies:
+4. Install the dependencies:<br>
     `pip install -r requirements.txt`
 
-4. Download data and model
-    Download the data in the root directory
+5. Download data and model<br>
+    Download the data in the root directory<br>
     `wget https://drive.google.com/drive/folders/1LWe1VgEaTr5Bk5tJc81v4bgfqZGn7xMY?usp=sharing`
 
-    Download the model in the root directory
+    Download the model in the root directory<br>
     `wget https://drive.google.com/drive/folders/1ZLSaiyk7sZpTqAvs23kV-Gqh6sbFVqkf?usp=sharing`
 
-5. Run the code:
+6. Run the code:<br>
     `python songGenerator.py`
 
 ## Usage
