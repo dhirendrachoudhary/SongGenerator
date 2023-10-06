@@ -20,7 +20,7 @@ The Song Generator is designed to generate song lyrics in the style of Taylor Sw
 To use the Song Generator, follow these steps:
 
 1. clone the repository:<br>
-    `git clone https://github.com/dhirendrachoudhary/RnD_AI_Challenge.git`
+    `git clone https://github.com/dhirendrachoudhary/SongGenerator.git`
    
 3. Create a virtual environment and activate it:<br>
     `python3 -m venv env`<br>
